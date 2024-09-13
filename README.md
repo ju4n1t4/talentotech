@@ -1,1 +1,1 @@
-# telentotech
+# talentotech
